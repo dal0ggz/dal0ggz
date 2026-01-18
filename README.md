@@ -1,5 +1,5 @@
-# 💫 About Me:
-WORKING ON JAVA
+# About Me:
+DISCORD: inmyownlanefrlol
 
 
 # 💻 Tech Stack:
